@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactiveSmichov/static/css/main.99425395.css",
+    "main.js": "/ReactiveSmichov/static/js/main.d10ce945.js",
+    "index.html": "/ReactiveSmichov/index.html",
+    "main.99425395.css.map": "/ReactiveSmichov/static/css/main.99425395.css.map",
+    "main.d10ce945.js.map": "/ReactiveSmichov/static/js/main.d10ce945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99425395.css",
+    "static/js/main.d10ce945.js"
+  ]
+}
